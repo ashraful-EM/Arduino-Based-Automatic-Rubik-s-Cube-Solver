@@ -1,0 +1,5 @@
+kociemba
+numpy
+opencv-python
+Pillow
+pyserial
